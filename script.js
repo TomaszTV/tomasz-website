@@ -237,7 +237,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
     "Szeretet, szerelem és a kattogás.",
-    "\"A vamzer csengőt megszólalt...\""
+    "\"A vamzer csengőt megszólalt...\"",
+    "\"Qupak a csicskám <3\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -670,3 +671,4 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
